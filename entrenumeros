@@ -1,0 +1,11 @@
+function entrenum($ini, $fim) {
+    while ($ini < $fim-1) {
+      $num = $ini+1;
+      echo $num;
+      $ini++; 
+      }
+        
+}
+
+$resultado = entrenum(1,20);
+echo $resultado ;
