@@ -1,0 +1,34 @@
+EXERCICIO 6 
+
+ls - listar arquivos - exemplo ls.
+sudo - para permissões especiais - exemplo ls/root.
+greep - para buscar texto em arquivos - exemplo greep "Frank Emanoel"
+rm -rf dir - Para apagar um diretorio forçadamente - exemplo rm -fr teste
+mkfs.ext4 /dev/sdaX</code> - Esse é um caso quando se precisa formatar completamente o pc pra repassar a outra pessoa por exemplo.
+
+
+EXERCICIO 7
+Expressões regulares para representar padrões em strings. Não usei ainda esse recurso. Mas é útil para extrações em textos.
+
+EXERCICIO 8
+
+Ao meu ver é muito relatrivo qual mehor linguagem, o PHP por exemplo é excelente para aplicações web, já o Delphi é robusto para aplicações desktop, e assim sucessivamente. Na minha opinião não existe uma melhor linguagem, mas a melhor para cada caso.
+
+EXERCICIO 9
+
+Front end é basicamente o lado cliente da aplicação, enquanto o backend é o lado servidor. Por exemplo, no front end, estão os itens que o usuário pode ver, no caso do desenvolvimento a parte mais visual. O Back end engloba partes como segurança, controle de dados, o armazenamento do banco de dados.
+
+EXERCICIO 10
+A maior vantagem da orientação a objetos é a melhor reutilização do codigo e poder trabalhr em um nível mais elevado de abstração. Porém a curva de aprendizado da orientação a objetos é infinitamente maior que a estruturada, o que de certa forma é uma vantagem desta. A modelagem também fica mais difícil na Orientação a objetos, porém mais rápido na codificação. De certa forma as vantangens e desvantagens entre uma e outra basicamente ao meu ver compreende estes pontos, o que é muito relativo nas questões de aprendizado, implementação, manutenção dos sistemas. Na programação estruturada o código fica maior e demanda mais esforço nas manutenções para encontrar o erro, porém na orientação a objetos pode ser mais rápido mas o nível de abstração acaba por manter em patamares médios uma e outra.
+
+EXERCICIO 11
+CRIAR REPOSITORIO
+
+EXERCICIO 12
+MySQL, Vantagens: confiável, oferece níveis de permissão eficazes, excelente desempenho, grátis. Desvantagens: Não apropriado para sistemas mais complexos.
+SQLServer Vantagens: Gestão de alto nível, recuperação de dados excelente, preparado para falhas  de queda de energia ou desligamentos não previstos. Desvantagens: Caro, não é compatível com todas as linguagens.
+Firebase Vantagens: Excelente para  compartilhamento de dados, seguro, moderno, rápida implementação e escalamento. Desvantagens: plataforma limitada, falta boa documentação, não é tão rapido nas requisições.
+MariaDB Vantagens: OpenSource, atualizações constantes, segurança, performance, recursos. Desvantagens: Não tem uma comunidade grande, novo com falhas ainda.
+
+EXERCICIO 13
+A programação web hoje passou de uma inovação para uma necessidade mínima, digo isso porque anteriormente na era dos sistemas desktops, os sistemas web eram a nata dos sistemas e usados basicamente como sistemas para pequenas consultas ou sites. Atualmente os sistemas web tomaram proporções gigantescas, oferecendo desde pequenas soluções a complexos sistemas com gráficos, cálculos, interligações e controles. Ao meu ve, o futuro dos sistemas vai ser o de interligações, e as linguagens de programação vão ser requisitadas e altíssimo nível.
