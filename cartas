@@ -1,0 +1,8 @@
+<?php
+$cartas = array(0,7,15,26,40,57,77,100,126,155,187);
+
+$andar = 2;
+
+$resultado =  $cartas[$andar];
+
+echo "São necessários ".$resultado." cartas para ".$andar." andar(es)!";
